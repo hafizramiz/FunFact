@@ -25,7 +25,6 @@ class MainActivity : ComponentActivity() {
 }
 
 
-
 @Composable
 fun FunFactApp() {
     FunFactsNavigationGraph()
