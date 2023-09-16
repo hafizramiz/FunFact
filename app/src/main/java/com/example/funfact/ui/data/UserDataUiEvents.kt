@@ -13,5 +13,5 @@ sealed class UserDataUiEvents(){
     data class UserNameEntered(val userInputName:String):UserDataUiEvents()
     // animalValue da ayni sekilde event'i view modele gonderdigim zaman parametreli
     // event gondermem icindir.
-    data class AnimalSelected(val animaInputValue:String):UserDataUiEvents()
+    data class PersonSelected(val personInputValue:String):UserDataUiEvents()
 }

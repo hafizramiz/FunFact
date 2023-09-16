@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FunFact</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="name">Name</string>
+    <string name="what_you_like">What do you like</string>
+    <string name="go_to_details_screen">Go To Details Screen</string>
 </resources>
