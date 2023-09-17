@@ -4,4 +4,10 @@
     <string name="name">Name</string>
     <string name="what_you_like">What do you like</string>
     <string name="go_to_details_screen">Go To Details Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="thank_you">Thank you sharing your data</string>
+    <string name="kotlin_developer_girl">You are a Kotlin Developer Girl</string>
+    <string name="kotlin_developer_boy">You are a Kotlin Developer Boy</string>
+    <string name="boy_result">You can observe a lot just by watching</string>
+    <string name="girl_result">Genies is one percent inspriation and ninety-nine percent perspiration</string>
 </resources>

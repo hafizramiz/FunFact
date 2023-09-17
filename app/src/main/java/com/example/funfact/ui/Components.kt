@@ -5,6 +5,7 @@ import androidx.compose.foundation.Image
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
@@ -148,6 +149,27 @@ fun PersonCard(
 
     }
 }
+
+@Composable
+fun ResultCard(value: String) {
+    Card(
+        modifier = Modifier
+            .padding(32.dp)
+            .fillMaxWidth(),
+        shape = RoundedCornerShape(8.dp),
+        elevation = CardDefaults.cardElevation(4.dp)
+    ) {
+        Column(modifier = Modifier.padding(18.dp, 24.dp)) {
+            Text(text = "dd")
+            Image(painter = painterResource(id = R.drawable.men),
+                contentDescription = "Qouto")
+            Spacer(modifier = Modifier.size(60.dp))
+
+        }
+
+    }
+}
+
 
 @Composable
 fun ButtonComponent(

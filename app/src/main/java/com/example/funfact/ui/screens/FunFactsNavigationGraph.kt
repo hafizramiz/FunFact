@@ -17,11 +17,12 @@ fun FunFactsNavigationGraph(
             UserInputScreen(myViewModel=myViewModel, showNextScreen = {
                 println(it.first)
                 println(it.second)
+                // Burda view modeldeki uiState'i degistirecegim.
                 navController.navigate(Routes.WELCOME_SCREEN)
             })
         }
         composable(Routes.WELCOME_SCREEN) {
-            WelcomeScreen()
+            WelcomeScreen(myViewModel=myViewModel)
         }
     };
 }
