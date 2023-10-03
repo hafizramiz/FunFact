@@ -17,7 +17,6 @@ import com.hafizramiz.funfacts.ui.screens.FunFactsNavigationGraph
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         // Splash Screen'i build gradle'a ekledim
         // simdi burda initialize etmem gerekiyor.
         installSplashScreen()
