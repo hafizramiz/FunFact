@@ -28,12 +28,9 @@ Navigation Component
 ![img_3.png](img_3.png)
 
 
-# 🤓 Author
+## 🤓 Author
 
-Hafiz Ramiz
-
-### 👉 Let's connect to explore new opportunities!:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizramiz/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](ramizovhafiz@gmail.com)
-
+I'm Hafiz Ramiz, a passionate Mobile Developer with a love for Flutter and Jetpack Compose. 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hafizramiz/) and [GitHub](https://github.com/hafizramiz).
+Email: ramizovhafız@gmail.com
 
