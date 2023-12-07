@@ -32,5 +32,4 @@ Navigation Component
 
 I'm Hafiz Ramiz, a passionate Mobile Developer with a love for Flutter and Jetpack Compose. 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hafizramiz/) and [GitHub](https://github.com/hafizramiz).
-Email: ramizovhafız@gmail.com
 
