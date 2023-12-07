@@ -32,4 +32,8 @@ Navigation Component
 
 Hafiz Ramiz
 
+### 👉 Let's connect to explore new opportunities!:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizramiz/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](ramizovhafiz@gmail.com)
+
 
